@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cugfzx
-- 👀 I’m interested in digital image processing.
+- 👀 I’m interested in digital image processing,algorithm.
 - 🌱 I’m currently learning machine learning.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through 20181003670@cug.edu.cn
